@@ -60,7 +60,7 @@ Countries to be compared:
 
 # ​Team Members:
 
-   Peter Toma
+  Peter Toma
 
 ​   Abudallah Saleh
 
