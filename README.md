@@ -2,7 +2,7 @@
 
   # Project Idea:
 
-   The project aims to measure and evaluate the level of digital transformation in Egypt compared to selected countries, based on quantitative and qualitative data, in order to identify strengths, weaknesses, and opportunities for improvement.
+   This project investigates how Digital Transformation contributes to improving Financial Inclusion across five countries by analyzing key digital indicators such as E-Government services, Internet Penetration, and Digital Payments. The study evaluates trends over time, compares countries, measures relationships using correlation and regression techniques, and analyzes growth patterns to understand how digital progress influences financial access.
 
 Countries to be compared:
    - Egypt
