@@ -32,26 +32,27 @@ Countries to be compared:
    
 # Target Question: 
 
-   What is the impact of digital transformation on financial inclusion in the studied countries?
+   What is the impact of Digital Transformation on Financial Inclusion across the selected countries?
 
 
 # ​Sub-Questions:
 
-   1- ​What is the digital transformation level in each country?
+   1- ​What is the level of Digital Transformation in each country?
 
-   2- What is the digital divide between developing and advanced countries?
+   2- What differences exist between developing and developed countries in terms of Digital Transformation and Financial Inclusion?
+    
+   3- Which Digital Transformation dimensions (Internet Penetration, Digital Payments, and E-Government) represent strengths or weaknesses for each country?
 
-   3- Which digital dimensions (Internet, E-Payment, E-Government) represent a point of strength or weakness for each country?
+   4- Does increased Digital Payments adoption contribute to higher levels of Financial Inclusion?
 
-   4- Does the increased use of digital payments lead to a higher percentage of bank account ownership?
+   5- Do countries with more advanced E-Government systems achieve higher levels of Financial Inclusion?
 
-   5- Do countries with advanced E-Government achieve higher levels of financial inclusion?
+   6- Is there a relationship between Internet Penetration and Financial Inclusion?
 
-   6- Is there a correlation between internet penetration and increased financial inclusion?
+   7- Which Digital Transformation dimension has the strongest impact on Financial Inclusion?
 
-   7- Which dimension has a stronger impact on economic growth: Digitalization or Financial Inclusion?
+   8- Have countries that experienced significant digital development over recent years also shown improvements in Financial Inclusion indicators?
 
-   8- Have countries that developed digitally over the past 5-10 years seen an improvement in financial inclusion indicators?
 
 
   
