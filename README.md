@@ -1,4 +1,4 @@
-# Digital Transformation Index (DTI)
+# Digital Transformation Index (DTI) & Financial Inclusion
 
   # Project Idea:
 
@@ -18,13 +18,11 @@ Countries to be compared:
   
 # Project Objectives:
 
-   * Analyze the development of digital transformation in Egypt over the past ten years.
-
-   * Compare Egypt with the selected countries to understand its regional and global position in digital transformation.
-
-   * Identify the key factors influencing digital transformation, such as internet penetration, e-government services, electronic payments, and financial inclusion.
-
-   * Provide data-driven recommendations to support decision-makers in improving digital policies.
+   * Analyze Digital Transformation trends over time.
+   * Compare digital indicators across countries.
+   * Measure the impact of DT indicators on Financial Inclusion.
+   * Evaluate growth patterns across countries.
+   * Identify which digital indicator has the strongest relationship with Financial Inclusion.
 
 
   
