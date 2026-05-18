@@ -74,6 +74,19 @@ Countries to be compared:
 
   Research & Analysis: 
 
+# 1. Business Understanding:
+ * Define the main objective of the project.
+ * Identify key research questions.
+ * Determine Digital Transformation and Financial Inclusion indicators.
+
+
+# 2. Data Sources:
+ * Global Findex Database
+ * International Telecommunication Union (ITU)
+
+   www.data360.worldbank.org  
+
+
 # Data collection:
 
    From official sources like the World Bank and ITU.
