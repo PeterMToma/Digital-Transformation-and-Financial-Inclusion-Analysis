@@ -88,8 +88,19 @@ Countries to be compared:
 
 
 # Data collection:
+# Gather datasets for:
+  * E-Government
+  * Internet Penetration
+  * Digital Payments
+  * Financial Inclusion
 
-   From official sources like the World Bank and ITU.
+# Select the five countries for analysis:
+  * Egypt
+  * India
+  * United Arab Emirates
+  * Saudi Arabia
+  * United Kingdom
+
    
 # Visual Identity: 
 
