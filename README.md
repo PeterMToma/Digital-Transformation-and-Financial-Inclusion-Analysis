@@ -1,6 +1,6 @@
 # Digital Transformation Index (DTI) & Financial Inclusion
 
-  # Project Idea:
+  # Project Idea
 
    This project investigates how Digital Transformation contributes to improving Financial Inclusion across five countries by analyzing key digital indicators such as E-Government services, Internet Penetration, and Digital Payments. The study evaluates trends over time, compares countries, measures relationships using correlation and regression techniques, and analyzes growth patterns to understand how digital progress influences financial access.
 
@@ -12,11 +12,11 @@ Countries to be compared:
    - United Kingdom
   
 
-# Time Period:
+# Time Period
    From 2015 to 2024
 
   
-# Project Objectives:
+# Project Objectives
 
    * Analyze Digital Transformation trends over time.
    * Compare digital indicators across countries.
@@ -26,16 +26,16 @@ Countries to be compared:
 
 
   
-# Project Questions:
+# Project Questions
 
    The project addresses the following key questions:
    
-# Target Question: 
+# Target Question 
 
    What is the impact of Digital Transformation on Financial Inclusion across the selected countries?
 
 
-# ​Sub-Questions:
+# ​Sub-Questions
 
    1- ​What is the level of Digital Transformation in each country?
 
@@ -57,7 +57,7 @@ Countries to be compared:
 
   
 
-# ​Team Members:
+# ​Team Members
 
   Peter Toma
 
@@ -70,24 +70,24 @@ Countries to be compared:
   Noha Salah
 
 
-# Project Plan:
+# Project Plan
 
   Research & Analysis: 
 
-# 1. Business Understanding:
+# 1. Business Understanding
  * Define the main objective of the project.
  * Identify key research questions.
  * Determine Digital Transformation and Financial Inclusion indicators.
 
 
-# 2. Data Sources:
+# 2. Data Sources
  * Global Findex Database
  * International Telecommunication Union (ITU)
 
    www.data360.worldbank.org  
 
 
-# Data collection:
+# Data collection
 # Gather datasets for:
   * E-Government
   * Internet Penetration
