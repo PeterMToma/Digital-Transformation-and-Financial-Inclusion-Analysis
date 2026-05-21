@@ -308,7 +308,7 @@ To evaluate how Digital Transformation and Financial Inclusion have evolved over
 
 # 7. Insights & Conclusion
 
-# Key Insights
+  * Key Insights
 
   # Digital Transformation & Financial Inclusion Levels
 United Kingdom leads in both Financial Inclusion (0.97) and Digital indicators.
