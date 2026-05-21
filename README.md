@@ -116,10 +116,10 @@
   * Account Ownership
   * Borrowed from a formal bank or similar financial institution
   * Saved at a bank or similar financial institution
-    
-Goal : Build a multi-country, multi-indicator dataset
 
-The study is based on 17 indicators grouped into four main pillars of Digital Transformation and Financial Inclusion Readiness to evaluate digital     transformation and financial inclusion    
+The study is based on 17 indicators grouped into four main pillars of Digital Transformation and Financial Inclusion Readiness to evaluate digital     transformation and financial inclusion   
+
+Goal: Build a multi-country, multi-indicator dataset
 
 
 
