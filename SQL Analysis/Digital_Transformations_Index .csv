@@ -1,0 +1,395 @@
+﻿Code_ID,Country_Code,Country,Year,Indicators,OBS_Values
+ARE_2015,ARE,United Arab Emirates,2015,Access_Index,0.499495747
+ARE_2015,ARE,United Arab Emirates,2015,Affordability_Index,0.854614362
+ARE_2015,ARE,United Arab Emirates,2015,Internet_Index,0.677055055
+ARE_2015,ARE,United Arab Emirates,2015,Digital_Transformation_Index,0.677055055
+ARE_2016,ARE,United Arab Emirates,2016,OSI_Value,0.8913
+ARE_2016,ARE,United Arab Emirates,2016,TII_Value,0.68813
+ARE_2016,ARE,United Arab Emirates,2016,HCI_Value,0.67516
+ARE_2016,ARE,United Arab Emirates,2016,EPI_Value,0.74576
+ARE_2016,ARE,United Arab Emirates,2016,E-GOV_Index,0.75153
+ARE_2016,ARE,United Arab Emirates,2016,Access_Index,0.50034187
+ARE_2016,ARE,United Arab Emirates,2016,Affordability_Index,0.910271594
+ARE_2016,ARE,United Arab Emirates,2016,Internet_Index,0.705306732
+ARE_2016,ARE,United Arab Emirates,2016,Digital_Transformation_Index,0.728418366
+ARE_2017,ARE,United Arab Emirates,2017,Access_Index,1.50612679
+ARE_2017,ARE,United Arab Emirates,2017,Affordability_Index,0.894331291
+ARE_2017,ARE,United Arab Emirates,2017,Internet_Index,0.780103209
+ARE_2017,ARE,United Arab Emirates,2017,Digital_Payments_Index,0.674661971
+ARE_2017,ARE,United Arab Emirates,2017,Usage_Index,0.546803912
+ARE_2017,ARE,United Arab Emirates,2017,FI_Index,0.693527788
+ARE_2017,ARE,United Arab Emirates,2017,Digital_Transformation_Index,0.72738259
+ARE_2018,ARE,United Arab Emirates,2018,OSI_Value,0.9444
+ARE_2018,ARE,United Arab Emirates,2018,TII_Value,0.8564
+ARE_2018,ARE,United Arab Emirates,2018,HCI_Value,0.6877
+ARE_2018,ARE,United Arab Emirates,2018,EPI_Value,0.9438
+ARE_2018,ARE,United Arab Emirates,2018,E-GOV_Index,0.8295
+ARE_2018,ARE,United Arab Emirates,2018,Access_Index,0.693926136
+ARE_2018,ARE,United Arab Emirates,2018,Affordability_Index,0.892157229
+ARE_2018,ARE,United Arab Emirates,2018,Internet_Index,0.793041682
+ARE_2018,ARE,United Arab Emirates,2018,Digital_Transformation_Index,0.811270841
+ARE_2019,ARE,United Arab Emirates,2019,Access_Index,0.717743562
+ARE_2019,ARE,United Arab Emirates,2019,Affordability_Index,0.892157229
+ARE_2019,ARE,United Arab Emirates,2019,Internet_Index,0.596752593
+ARE_2019,ARE,United Arab Emirates,2019,Quality_Index,0.180356987
+ARE_2019,ARE,United Arab Emirates,2019,Digital_Transformation_Index,0.596752593
+ARE_2020,ARE,United Arab Emirates,2020,OSI_Value,0.9
+ARE_2020,ARE,United Arab Emirates,2020,TII_Value,0.9344
+ARE_2020,ARE,United Arab Emirates,2020,HCI_Value,0.732
+ARE_2020,ARE,United Arab Emirates,2020,EPI_Value,0.9405
+ARE_2020,ARE,United Arab Emirates,2020,E-GOV_Index,0.855466667
+ARE_2020,ARE,United Arab Emirates,2020,Access_Index,0.924674246
+ARE_2020,ARE,United Arab Emirates,2020,Affordability_Index,0.90192612
+ARE_2020,ARE,United Arab Emirates,2020,Internet_Index,0.735365694
+ARE_2020,ARE,United Arab Emirates,2020,Quality_Index,0.379496716
+ARE_2020,ARE,United Arab Emirates,2020,Digital_Transformation_Index,0.79541618
+ARE_2021,ARE,United Arab Emirates,2021,Access_Index,1.738279955
+ARE_2021,ARE,United Arab Emirates,2021,Affordability_Index,0.923234441
+ARE_2021,ARE,United Arab Emirates,2021,Internet_Index,0.856551992
+ARE_2021,ARE,United Arab Emirates,2021,Quality_Index,0.714264054
+ARE_2021,ARE,United Arab Emirates,2021,Digital_Payments_Index,0.45407507
+ARE_2021,ARE,United Arab Emirates,2021,Usage_Index,0.188276242
+ARE_2021,ARE,United Arab Emirates,2021,FI_Index,0.497199358
+ARE_2021,ARE,United Arab Emirates,2021,Digital_Transformation_Index,0.655313531
+ARE_2022,ARE,United Arab Emirates,2022,OSI_Value,0.9014
+ARE_2022,ARE,United Arab Emirates,2022,TII_Value,0.9306
+ARE_2022,ARE,United Arab Emirates,2022,HCI_Value,0.8711
+ARE_2022,ARE,United Arab Emirates,2022,EPI_Value,0.7841
+ARE_2022,ARE,United Arab Emirates,2022,E-GOV_Index,0.901033333
+ARE_2022,ARE,United Arab Emirates,2022,Access_Index,0.910156658
+ARE_2022,ARE,United Arab Emirates,2022,Affordability_Index,0.895738394
+ARE_2022,ARE,United Arab Emirates,2022,Internet_Index,0.817858744
+ARE_2022,ARE,United Arab Emirates,2022,Quality_Index,0.647681179
+ARE_2022,ARE,United Arab Emirates,2022,Digital_Transformation_Index,0.859446039
+ARE_2023,ARE,United Arab Emirates,2023,Access_Index,0.905214962
+ARE_2023,ARE,United Arab Emirates,2023,Affordability_Index,0.962769195
+ARE_2023,ARE,United Arab Emirates,2023,Internet_Index,0.891596159
+ARE_2023,ARE,United Arab Emirates,2023,Quality_Index,0.806804321
+ARE_2023,ARE,United Arab Emirates,2023,Digital_Transformation_Index,0.891596159
+ARE_2024,ARE,United Arab Emirates,2024,OSI_Value,0.91627
+ARE_2024,ARE,United Arab Emirates,2024,TII_Value,1
+ARE_2024,ARE,United Arab Emirates,2024,HCI_Value,0.94355
+ARE_2024,ARE,United Arab Emirates,2024,EPI_Value,0.7808
+ARE_2024,ARE,United Arab Emirates,2024,E-GOV_Index,0.953273333
+ARE_2024,ARE,United Arab Emirates,2024,Access_Index,0.9036213
+ARE_2024,ARE,United Arab Emirates,2024,Affordability_Index,0.969790532
+ARE_2024,ARE,United Arab Emirates,2024,Internet_Index,0.957803944
+ARE_2024,ARE,United Arab Emirates,2024,Quality_Index,1
+ARE_2024,ARE,United Arab Emirates,2024,Digital_Transformation_Index,0.955538639
+EGY_2015,EGY,"Egypt, Arab Rep",2015,Access_Index,0.161267873
+EGY_2015,EGY,"Egypt, Arab Rep",2015,Affordability_Index,0.63104284
+EGY_2015,EGY,"Egypt, Arab Rep",2015,Internet_Index,0.396155357
+EGY_2015,EGY,"Egypt, Arab Rep",2015,Digital_Transformation_Index,0.396155357
+EGY_2016,EGY,"Egypt, Arab Rep",2016,OSI_Value,0.47101
+EGY_2016,EGY,"Egypt, Arab Rep",2016,TII_Value,0.30246
+EGY_2016,EGY,"Egypt, Arab Rep",2016,HCI_Value,0.60476
+EGY_2016,EGY,"Egypt, Arab Rep",2016,EPI_Value,0.40678
+EGY_2016,EGY,"Egypt, Arab Rep",2016,E-GOV_Index,0.45941
+EGY_2016,EGY,"Egypt, Arab Rep",2016,Access_Index,0.182493983
+EGY_2016,EGY,"Egypt, Arab Rep",2016,Affordability_Index,0.76098947
+EGY_2016,EGY,"Egypt, Arab Rep",2016,Internet_Index,0.471741726
+EGY_2016,EGY,"Egypt, Arab Rep",2016,Digital_Transformation_Index,0.465575863
+EGY_2017,EGY,"Egypt, Arab Rep",2017,Access_Index,0.280513241
+EGY_2017,EGY,"Egypt, Arab Rep",2017,Affordability_Index,0.86581462
+EGY_2017,EGY,"Egypt, Arab Rep",2017,Internet_Index,0.536241855
+EGY_2017,EGY,"Egypt, Arab Rep",2017,Digital_Payments_Index,0.016683175
+EGY_2017,EGY,"Egypt, Arab Rep",2017,Usage_Index,0.035020895
+EGY_2017,EGY,"Egypt, Arab Rep",2017,FI_Index,0.054432523
+EGY_2017,EGY,"Egypt, Arab Rep",2017,Digital_Transformation_Index,0.276462515
+EGY_2018,EGY,"Egypt, Arab Rep",2018,OSI_Value,0.5347
+EGY_2018,EGY,"Egypt, Arab Rep",2018,TII_Value,0.3222
+EGY_2018,EGY,"Egypt, Arab Rep",2018,HCI_Value,0.6072
+EGY_2018,EGY,"Egypt, Arab Rep",2018,EPI_Value,0.5393
+EGY_2018,EGY,"Egypt, Arab Rep",2018,E-GOV_Index,0.488033333
+EGY_2018,EGY,"Egypt, Arab Rep",2018,Access_Index,0.22934967
+EGY_2018,EGY,"Egypt, Arab Rep",2018,Affordability_Index,0.61731154
+EGY_2018,EGY,"Egypt, Arab Rep",2018,Internet_Index,0.423330605
+EGY_2018,EGY,"Egypt, Arab Rep",2018,Digital_Transformation_Index,0.455681969
+EGY_2019,EGY,"Egypt, Arab Rep",2019,Access_Index,0.285136266
+EGY_2019,EGY,"Egypt, Arab Rep",2019,Affordability_Index,0.61731154
+EGY_2019,EGY,"Egypt, Arab Rep",2019,Internet_Index,0.303042556
+EGY_2019,EGY,"Egypt, Arab Rep",2019,Quality_Index,0.006679863
+EGY_2019,EGY,"Egypt, Arab Rep",2019,Digital_Transformation_Index,0.303042556
+EGY_2020,EGY,"Egypt, Arab Rep",2020,OSI_Value,0.5706
+EGY_2020,EGY,"Egypt, Arab Rep",2020,TII_Value,0.4683
+EGY_2020,EGY,"Egypt, Arab Rep",2020,HCI_Value,0.6192
+EGY_2020,EGY,"Egypt, Arab Rep",2020,EPI_Value,0.5119
+EGY_2020,EGY,"Egypt, Arab Rep",2020,E-GOV_Index,0.5527
+EGY_2020,EGY,"Egypt, Arab Rep",2020,Access_Index,0.36362809
+EGY_2020,EGY,"Egypt, Arab Rep",2020,Affordability_Index,0.599552086
+EGY_2020,EGY,"Egypt, Arab Rep",2020,Internet_Index,0.328800097
+EGY_2020,EGY,"Egypt, Arab Rep",2020,Quality_Index,0.023220114
+EGY_2020,EGY,"Egypt, Arab Rep",2020,Digital_Transformation_Index,0.440750048
+EGY_2021,EGY,"Egypt, Arab Rep",2021,Access_Index,0.373450187
+EGY_2021,EGY,"Egypt, Arab Rep",2021,Affordability_Index,0.6130747
+EGY_2021,EGY,"Egypt, Arab Rep",2021,Internet_Index,0.34016809
+EGY_2021,EGY,"Egypt, Arab Rep",2021,Quality_Index,0.033979383
+EGY_2021,EGY,"Egypt, Arab Rep",2021,Digital_Payments_Index,0.022544835
+EGY_2021,EGY,"Egypt, Arab Rep",2021,Usage_Index,0
+EGY_2021,EGY,"Egypt, Arab Rep",2021,FI_Index,0
+EGY_2021,EGY,"Egypt, Arab Rep",2021,Digital_Transformation_Index,0.181356463
+EGY_2022,EGY,"Egypt, Arab Rep",2022,OSI_Value,0.573
+EGY_2022,EGY,"Egypt, Arab Rep",2022,TII_Value,0.5579
+EGY_2022,EGY,"Egypt, Arab Rep",2022,HCI_Value,0.6375
+EGY_2022,EGY,"Egypt, Arab Rep",2022,EPI_Value,0.3523
+EGY_2022,EGY,"Egypt, Arab Rep",2022,E-GOV_Index,0.589466667
+EGY_2022,EGY,"Egypt, Arab Rep",2022,Access_Index,0.38753152
+EGY_2022,EGY,"Egypt, Arab Rep",2022,Affordability_Index,0.642467247
+EGY_2022,EGY,"Egypt, Arab Rep",2022,Internet_Index,0.35560602
+EGY_2022,EGY,"Egypt, Arab Rep",2022,Quality_Index,0.036819293
+EGY_2022,EGY,"Egypt, Arab Rep",2022,Digital_Transformation_Index,0.472536344
+EGY_2023,EGY,"Egypt, Arab Rep",2023,Access_Index,0.39983578
+EGY_2023,EGY,"Egypt, Arab Rep",2023,Affordability_Index,0.700785741
+EGY_2023,EGY,"Egypt, Arab Rep",2023,Internet_Index,0.382455367
+EGY_2023,EGY,"Egypt, Arab Rep",2023,Quality_Index,0.046744579
+EGY_2023,EGY,"Egypt, Arab Rep",2023,Digital_Transformation_Index,0.382455367
+EGY_2024,EGY,"Egypt, Arab Rep",2024,OSI_Value,0.70016
+EGY_2024,EGY,"Egypt, Arab Rep",2024,TII_Value,0.69456
+EGY_2024,EGY,"Egypt, Arab Rep",2024,HCI_Value,0.61503
+EGY_2024,EGY,"Egypt, Arab Rep",2024,EPI_Value,0.589
+EGY_2024,EGY,"Egypt, Arab Rep",2024,E-GOV_Index,0.669916667
+EGY_2024,EGY,"Egypt, Arab Rep",2024,Access_Index,0.642124788
+EGY_2024,EGY,"Egypt, Arab Rep",2024,Affordability_Index,0.710607437
+EGY_2024,EGY,"Egypt, Arab Rep",2024,Internet_Index,0.399426287
+EGY_2024,EGY,"Egypt, Arab Rep",2024,Quality_Index,0.062216847
+EGY_2024,EGY,"Egypt, Arab Rep",2024,Digital_Payments_Index,0.30114029
+EGY_2024,EGY,"Egypt, Arab Rep",2024,Usage_Index,0.054898463
+EGY_2024,EGY,"Egypt, Arab Rep",2024,FI_Index,0.135784337
+EGY_2024,EGY,"Egypt, Arab Rep",2024,Digital_Transformation_Index,0.456827748
+GBR_2015,GBR,United Kingdom,2015,Access_Index,0.701966023
+GBR_2015,GBR,United Kingdom,2015,Affordability_Index,0.964595049
+GBR_2015,GBR,United Kingdom,2015,Internet_Index,0.833280536
+GBR_2015,GBR,United Kingdom,2015,Digital_Transformation_Index,0.833280536
+GBR_2016,GBR,United Kingdom,2016,OSI_Value,1
+GBR_2016,GBR,United Kingdom,2016,TII_Value,0.81766
+GBR_2016,GBR,United Kingdom,2016,HCI_Value,0.94018
+GBR_2016,GBR,United Kingdom,2016,EPI_Value,1
+GBR_2016,GBR,United Kingdom,2016,E-GOV_Index,0.91928
+GBR_2016,GBR,United Kingdom,2016,Access_Index,0.717909631
+GBR_2016,GBR,United Kingdom,2016,Affordability_Index,0.981943231
+GBR_2016,GBR,United Kingdom,2016,Internet_Index,0.849926431
+GBR_2016,GBR,United Kingdom,2016,Digital_Transformation_Index,0.884603216
+GBR_2017,GBR,United Kingdom,2017,Access_Index,1.666391785
+GBR_2017,GBR,United Kingdom,2017,Affordability_Index,0.897593091
+GBR_2017,GBR,United Kingdom,2017,Internet_Index,0.80547826
+GBR_2017,GBR,United Kingdom,2017,Digital_Payments_Index,0.65162195
+GBR_2017,GBR,United Kingdom,2017,Usage_Index,1
+GBR_2017,GBR,United Kingdom,2017,FI_Index,0.976514178
+GBR_2017,GBR,United Kingdom,2017,Digital_Transformation_Index,0.728550105
+GBR_2018,GBR,United Kingdom,2018,OSI_Value,0.9792
+GBR_2018,GBR,United Kingdom,2018,TII_Value,0.8004
+GBR_2018,GBR,United Kingdom,2018,HCI_Value,0.92
+GBR_2018,GBR,United Kingdom,2018,EPI_Value,0.9831
+GBR_2018,GBR,United Kingdom,2018,E-GOV_Index,0.899866667
+GBR_2018,GBR,United Kingdom,2018,Access_Index,0.739628836
+GBR_2018,GBR,United Kingdom,2018,Affordability_Index,0.866194287
+GBR_2018,GBR,United Kingdom,2018,Internet_Index,0.802911562
+GBR_2018,GBR,United Kingdom,2018,Digital_Transformation_Index,0.851389114
+GBR_2019,GBR,United Kingdom,2019,Access_Index,0.757426411
+GBR_2019,GBR,United Kingdom,2019,Affordability_Index,0.855469799
+GBR_2019,GBR,United Kingdom,2019,Internet_Index,0.576189783
+GBR_2019,GBR,United Kingdom,2019,Quality_Index,0.115673141
+GBR_2019,GBR,United Kingdom,2019,Digital_Transformation_Index,0.576189783
+GBR_2020,GBR,United Kingdom,2020,OSI_Value,0.9588
+GBR_2020,GBR,United Kingdom,2020,TII_Value,0.9195
+GBR_2020,GBR,United Kingdom,2020,HCI_Value,0.9292
+GBR_2020,GBR,United Kingdom,2020,EPI_Value,0.9762
+GBR_2020,GBR,United Kingdom,2020,E-GOV_Index,0.935833333
+GBR_2020,GBR,United Kingdom,2020,Access_Index,0.77705178
+GBR_2020,GBR,United Kingdom,2020,Affordability_Index,0.786927436
+GBR_2020,GBR,United Kingdom,2020,Internet_Index,0.570778248
+GBR_2020,GBR,United Kingdom,2020,Quality_Index,0.148355529
+GBR_2020,GBR,United Kingdom,2020,Digital_Transformation_Index,0.753305791
+GBR_2021,GBR,United Kingdom,2021,Access_Index,1.814702112
+GBR_2021,GBR,United Kingdom,2021,Affordability_Index,0.881379035
+GBR_2021,GBR,United Kingdom,2021,Internet_Index,0.642919082
+GBR_2021,GBR,United Kingdom,2021,Quality_Index,0.2326761
+GBR_2021,GBR,United Kingdom,2021,Digital_Payments_Index,0.619093717
+GBR_2021,GBR,United Kingdom,2021,Usage_Index,0.892502728
+GBR_2021,GBR,United Kingdom,2021,FI_Index,0.946251364
+GBR_2021,GBR,United Kingdom,2021,Digital_Transformation_Index,0.6310064
+GBR_2022,GBR,United Kingdom,2022,OSI_Value,0.8859
+GBR_2022,GBR,United Kingdom,2022,TII_Value,0.9186
+GBR_2022,GBR,United Kingdom,2022,HCI_Value,0.9369
+GBR_2022,GBR,United Kingdom,2022,EPI_Value,0.9545
+GBR_2022,GBR,United Kingdom,2022,E-GOV_Index,0.9138
+GBR_2022,GBR,United Kingdom,2022,Access_Index,0.819766654
+GBR_2022,GBR,United Kingdom,2022,Affordability_Index,0.898836746
+GBR_2022,GBR,United Kingdom,2022,Internet_Index,0.674306684
+GBR_2022,GBR,United Kingdom,2022,Quality_Index,0.304316651
+GBR_2022,GBR,United Kingdom,2022,Digital_Transformation_Index,0.794053342
+GBR_2023,GBR,United Kingdom,2023,Access_Index,0.825965185
+GBR_2023,GBR,United Kingdom,2023,Affordability_Index,0.912809019
+GBR_2023,GBR,United Kingdom,2023,Internet_Index,0.703958874
+GBR_2023,GBR,United Kingdom,2023,Quality_Index,0.373102419
+GBR_2023,GBR,United Kingdom,2023,Digital_Transformation_Index,0.703958874
+GBR_2024,GBR,United Kingdom,2024,OSI_Value,0.95349
+GBR_2024,GBR,United Kingdom,2024,TII_Value,0.97467
+GBR_2024,GBR,United Kingdom,2024,HCI_Value,0.94498
+GBR_2024,GBR,United Kingdom,2024,EPI_Value,0.9726
+GBR_2024,GBR,United Kingdom,2024,E-GOV_Index,0.957713333
+GBR_2024,GBR,United Kingdom,2024,Access_Index,0.825180503
+GBR_2024,GBR,United Kingdom,2024,Affordability_Index,0.912105522
+GBR_2024,GBR,United Kingdom,2024,Internet_Index,0.735870312
+GBR_2024,GBR,United Kingdom,2024,Quality_Index,0.47032491
+GBR_2024,GBR,United Kingdom,2024,Digital_Transformation_Index,0.846791822
+IND_2015,IND,India,2015,Access_Index,0
+IND_2015,IND,India,2015,Affordability_Index,0.142070207
+IND_2015,IND,India,2015,Internet_Index,0.071035104
+IND_2015,IND,India,2015,Digital_Transformation_Index,0.071035104
+IND_2016,IND,India,2016,OSI_Value,0.74638
+IND_2016,IND,India,2016,TII_Value,0.14298
+IND_2016,IND,India,2016,HCI_Value,0.50189
+IND_2016,IND,India,2016,EPI_Value,0.76271
+IND_2016,IND,India,2016,E-GOV_Index,0.46375
+IND_2016,IND,India,2016,Access_Index,0.019298221
+IND_2016,IND,India,2016,Affordability_Index,0.136496016
+IND_2016,IND,India,2016,Internet_Index,0.077897119
+IND_2016,IND,India,2016,Digital_Transformation_Index,0.270823559
+IND_2017,IND,India,2017,Access_Index,0.766050561
+IND_2017,IND,India,2017,Affordability_Index,0.064594265
+IND_2017,IND,India,2017,Internet_Index,0.052823426
+IND_2017,IND,India,2017,Digital_Payments_Index,0.039786186
+IND_2017,IND,India,2017,Usage_Index,0.140901065
+IND_2017,IND,India,2017,FI_Index,0.432949519
+IND_2017,IND,India,2017,Digital_Transformation_Index,0.046304806
+IND_2018,IND,India,2018,OSI_Value,0.9514
+IND_2018,IND,India,2018,TII_Value,0.2009
+IND_2018,IND,India,2018,HCI_Value,0.5484
+IND_2018,IND,India,2018,EPI_Value,0.9551
+IND_2018,IND,India,2018,E-GOV_Index,0.5669
+IND_2018,IND,India,2018,Access_Index,0.068116664
+IND_2018,IND,India,2018,Affordability_Index,0.630492307
+IND_2018,IND,India,2018,Internet_Index,0.349304485
+IND_2018,IND,India,2018,Digital_Transformation_Index,0.458102243
+IND_2019,IND,India,2019,Access_Index,0.121532133
+IND_2019,IND,India,2019,Affordability_Index,0.637353523
+IND_2019,IND,India,2019,Internet_Index,0.264801929
+IND_2019,IND,India,2019,Quality_Index,0.035520131
+IND_2019,IND,India,2019,Digital_Transformation_Index,0.264801929
+IND_2020,IND,India,2020,OSI_Value,0.8529
+IND_2020,IND,India,2020,TII_Value,0.3515
+IND_2020,IND,India,2020,HCI_Value,0.5848
+IND_2020,IND,India,2020,EPI_Value,0.8571
+IND_2020,IND,India,2020,E-GOV_Index,0.5964
+IND_2020,IND,India,2020,Access_Index,0.187148708
+IND_2020,IND,India,2020,Affordability_Index,0.522888008
+IND_2020,IND,India,2020,Internet_Index,0.259764046
+IND_2020,IND,India,2020,Quality_Index,0.069255422
+IND_2020,IND,India,2020,Digital_Transformation_Index,0.428082023
+IND_2021,IND,India,2021,Access_Index,0.909093173
+IND_2021,IND,India,2021,Affordability_Index,0.576752433
+IND_2021,IND,India,2021,Internet_Index,0.303313553
+IND_2021,IND,India,2021,Quality_Index,0.116650892
+IND_2021,IND,India,2021,Digital_Payments_Index,0.172209474
+IND_2021,IND,India,2021,Usage_Index,0.115539901
+IND_2021,IND,India,2021,FI_Index,0.404047869
+IND_2021,IND,India,2021,Digital_Transformation_Index,0.237761514
+IND_2022,IND,India,2022,OSI_Value,0.7934
+IND_2022,IND,India,2022,TII_Value,0.3954
+IND_2022,IND,India,2022,HCI_Value,0.5761
+IND_2022,IND,India,2022,EPI_Value,0.5909
+IND_2022,IND,India,2022,E-GOV_Index,0.5883
+IND_2022,IND,India,2022,Access_Index,0.249048894
+IND_2022,IND,India,2022,Affordability_Index,0.628867949
+IND_2022,IND,India,2022,Internet_Index,0.339338776
+IND_2022,IND,India,2022,Quality_Index,0.140099485
+IND_2022,IND,India,2022,Digital_Transformation_Index,0.463819388
+IND_2023,IND,India,2023,Access_Index,0.276226177
+IND_2023,IND,India,2023,Affordability_Index,0.624717842
+IND_2023,IND,India,2023,Internet_Index,0.410504336
+IND_2023,IND,India,2023,Quality_Index,0.330568989
+IND_2023,IND,India,2023,Digital_Transformation_Index,0.410504336
+IND_2024,IND,India,2024,OSI_Value,0.81842
+IND_2024,IND,India,2024,TII_Value,0.57004
+IND_2024,IND,India,2024,HCI_Value,0.61487
+IND_2024,IND,India,2024,EPI_Value,0.6575
+IND_2024,IND,India,2024,E-GOV_Index,0.667776667
+IND_2024,IND,India,2024,Access_Index,1.151100271
+IND_2024,IND,India,2024,Affordability_Index,0.655564374
+IND_2024,IND,India,2024,Internet_Index,0.431996231
+IND_2024,IND,India,2024,Quality_Index,0.340837322
+IND_2024,IND,India,2024,Digital_Payments_Index,0.485890126
+IND_2024,IND,India,2024,Usage_Index,0.231450798
+IND_2024,IND,India,2024,FI_Index,0.541482036
+IND_2024,IND,India,2024,Digital_Transformation_Index,0.528554341
+SAU_2015,SAU,Saudi Arabia,2015,Access_Index,0.428878411
+SAU_2015,SAU,Saudi Arabia,2015,Affordability_Index,0.794940483
+SAU_2015,SAU,Saudi Arabia,2015,Internet_Index,0.611909447
+SAU_2015,SAU,Saudi Arabia,2015,Digital_Transformation_Index,0.611909447
+SAU_2016,SAU,Saudi Arabia,2016,OSI_Value,0.67391
+SAU_2016,SAU,Saudi Arabia,2016,TII_Value,0.57334
+SAU_2016,SAU,Saudi Arabia,2016,HCI_Value,0.79946
+SAU_2016,SAU,Saudi Arabia,2016,EPI_Value,0.71186
+SAU_2016,SAU,Saudi Arabia,2016,E-GOV_Index,0.682236667
+SAU_2016,SAU,Saudi Arabia,2016,Access_Index,0.442575388
+SAU_2016,SAU,Saudi Arabia,2016,Affordability_Index,0.872491844
+SAU_2016,SAU,Saudi Arabia,2016,Internet_Index,0.657533616
+SAU_2016,SAU,Saudi Arabia,2016,Digital_Transformation_Index,0.669885141
+SAU_2017,SAU,Saudi Arabia,2017,Access_Index,1.169939628
+SAU_2017,SAU,Saudi Arabia,2017,Affordability_Index,0.765505835
+SAU_2017,SAU,Saudi Arabia,2017,Internet_Index,0.661759245
+SAU_2017,SAU,Saudi Arabia,2017,Digital_Payments_Index,0.414980303
+SAU_2017,SAU,Saudi Arabia,2017,Usage_Index,0.209624232
+SAU_2017,SAU,Saudi Arabia,2017,FI_Index,0.410775603
+SAU_2017,SAU,Saudi Arabia,2017,Digital_Transformation_Index,0.538369774
+SAU_2018,SAU,Saudi Arabia,2018,OSI_Value,0.7917
+SAU_2018,SAU,Saudi Arabia,2018,TII_Value,0.5339
+SAU_2018,SAU,Saudi Arabia,2018,HCI_Value,0.8101
+SAU_2018,SAU,Saudi Arabia,2018,EPI_Value,0.7135
+SAU_2018,SAU,Saudi Arabia,2018,E-GOV_Index,0.7119
+SAU_2018,SAU,Saudi Arabia,2018,Access_Index,0.606808166
+SAU_2018,SAU,Saudi Arabia,2018,Affordability_Index,0.806254005
+SAU_2018,SAU,Saudi Arabia,2018,Internet_Index,0.706531086
+SAU_2018,SAU,Saudi Arabia,2018,Digital_Transformation_Index,0.709215543
+SAU_2019,SAU,Saudi Arabia,2019,Access_Index,0.625017536
+SAU_2019,SAU,Saudi Arabia,2019,Affordability_Index,0.806254005
+SAU_2019,SAU,Saudi Arabia,2019,Internet_Index,0.508210658
+SAU_2019,SAU,Saudi Arabia,2019,Quality_Index,0.093360433
+SAU_2019,SAU,Saudi Arabia,2019,Digital_Transformation_Index,0.508210658
+SAU_2020,SAU,Saudi Arabia,2020,OSI_Value,0.6882
+SAU_2020,SAU,Saudi Arabia,2020,TII_Value,0.8442
+SAU_2020,SAU,Saudi Arabia,2020,HCI_Value,0.8648
+SAU_2020,SAU,Saudi Arabia,2020,EPI_Value,0.7143
+SAU_2020,SAU,Saudi Arabia,2020,E-GOV_Index,0.799066667
+SAU_2020,SAU,Saudi Arabia,2020,Access_Index,0.695659868
+SAU_2020,SAU,Saudi Arabia,2020,Affordability_Index,0.673177335
+SAU_2020,SAU,Saudi Arabia,2020,Internet_Index,0.537916874
+SAU_2020,SAU,Saudi Arabia,2020,Quality_Index,0.244913418
+SAU_2020,SAU,Saudi Arabia,2020,Digital_Transformation_Index,0.66849177
+SAU_2021,SAU,Saudi Arabia,2021,Access_Index,1.427068599
+SAU_2021,SAU,Saudi Arabia,2021,Affordability_Index,0.578056224
+SAU_2021,SAU,Saudi Arabia,2021,Internet_Index,0.55881088
+SAU_2021,SAU,Saudi Arabia,2021,Quality_Index,0.319499403
+SAU_2021,SAU,Saudi Arabia,2021,Digital_Payments_Index,0.7504119
+SAU_2021,SAU,Saudi Arabia,2021,Usage_Index,0.484126707
+SAU_2021,SAU,Saudi Arabia,2021,FI_Index,0.566159146
+SAU_2021,SAU,Saudi Arabia,2021,Digital_Transformation_Index,0.65461139
+SAU_2022,SAU,Saudi Arabia,2022,OSI_Value,0.822
+SAU_2022,SAU,Saudi Arabia,2022,TII_Value,0.8735
+SAU_2022,SAU,Saudi Arabia,2022,HCI_Value,0.8662
+SAU_2022,SAU,Saudi Arabia,2022,EPI_Value,0.6932
+SAU_2022,SAU,Saudi Arabia,2022,E-GOV_Index,0.8539
+SAU_2022,SAU,Saudi Arabia,2022,Access_Index,0.849885372
+SAU_2022,SAU,Saudi Arabia,2022,Affordability_Index,0.48788688
+SAU_2022,SAU,Saudi Arabia,2022,Internet_Index,0.560672106
+SAU_2022,SAU,Saudi Arabia,2022,Quality_Index,0.344244067
+SAU_2022,SAU,Saudi Arabia,2022,Digital_Transformation_Index,0.707286053
+SAU_2023,SAU,Saudi Arabia,2023,Access_Index,0.903071426
+SAU_2023,SAU,Saudi Arabia,2023,Affordability_Index,0.67802175
+SAU_2023,SAU,Saudi Arabia,2023,Internet_Index,0.647479346
+SAU_2023,SAU,Saudi Arabia,2023,Quality_Index,0.361344862
+SAU_2023,SAU,Saudi Arabia,2023,Digital_Transformation_Index,0.647479346
+SAU_2024,SAU,Saudi Arabia,2024,OSI_Value,0.98995
+SAU_2024,SAU,Saudi Arabia,2024,TII_Value,0.98411
+SAU_2024,SAU,Saudi Arabia,2024,HCI_Value,0.90666
+SAU_2024,SAU,Saudi Arabia,2024,EPI_Value,0.9589
+SAU_2024,SAU,Saudi Arabia,2024,E-GOV_Index,0.96024
+SAU_2024,SAU,Saudi Arabia,2024,Access_Index,1.638988192
+SAU_2024,SAU,Saudi Arabia,2024,Affordability_Index,0.928432437
+SAU_2024,SAU,Saudi Arabia,2024,Internet_Index,0.751540415
+SAU_2024,SAU,Saudi Arabia,2024,Quality_Index,0.397895669
+SAU_2024,SAU,Saudi Arabia,2024,Digital_Payments_Index,0.851563511
+SAU_2024,SAU,Saudi Arabia,2024,Usage_Index,0.480118692
+SAU_2024,SAU,Saudi Arabia,2024,FI_Index,0.595406872
+SAU_2024,SAU,Saudi Arabia,2024,Digital_Transformation_Index,0.854447975

@@ -1,0 +1,51 @@
+﻿Country_Code,Year,Country,Indicator,OBS_Value
+ARE,2015,United Arab Emirates,Active mobile-broadband subscriptions per 100 inhabitants (ITU),69.082
+ARE,2016,United Arab Emirates,Active mobile-broadband subscriptions per 100 inhabitants (ITU),68.7177
+ARE,2017,United Arab Emirates,Active mobile-broadband subscriptions per 100 inhabitants (ITU),85.0117
+ARE,2018,United Arab Emirates,Active mobile-broadband subscriptions per 100 inhabitants (ITU),81.9074
+ARE,2019,United Arab Emirates,Active mobile-broadband subscriptions per 100 inhabitants (ITU),93.7223
+ARE,2020,United Arab Emirates,Active mobile-broadband subscriptions per 100 inhabitants (ITU),204.682
+ARE,2021,United Arab Emirates,Active mobile-broadband subscriptions per 100 inhabitants (ITU),199.205
+ARE,2022,United Arab Emirates,Active mobile-broadband subscriptions per 100 inhabitants (ITU),184.698
+ARE,2023,United Arab Emirates,Active mobile-broadband subscriptions per 100 inhabitants (ITU),180.661
+ARE,2024,United Arab Emirates,Active mobile-broadband subscriptions per 100 inhabitants (ITU),161.852
+EGY,2015,"Egypt, Arab Rep.",Active mobile-broadband subscriptions per 100 inhabitants (ITU),39.2493
+EGY,2016,"Egypt, Arab Rep.",Active mobile-broadband subscriptions per 100 inhabitants (ITU),41.2837
+EGY,2017,"Egypt, Arab Rep.",Active mobile-broadband subscriptions per 100 inhabitants (ITU),43.9831
+EGY,2018,"Egypt, Arab Rep.",Active mobile-broadband subscriptions per 100 inhabitants (ITU),47.1657
+EGY,2019,"Egypt, Arab Rep.",Active mobile-broadband subscriptions per 100 inhabitants (ITU),52.5543
+EGY,2020,"Egypt, Arab Rep.",Active mobile-broadband subscriptions per 100 inhabitants (ITU),58.1253
+EGY,2021,"Egypt, Arab Rep.",Active mobile-broadband subscriptions per 100 inhabitants (ITU),57.9492
+EGY,2022,"Egypt, Arab Rep.",Active mobile-broadband subscriptions per 100 inhabitants (ITU),61.6864
+EGY,2023,"Egypt, Arab Rep.",Active mobile-broadband subscriptions per 100 inhabitants (ITU),66.9473
+EGY,2024,"Egypt, Arab Rep.",Active mobile-broadband subscriptions per 100 inhabitants (ITU),72.2815
+GBR,2015,United Kingdom,Active mobile-broadband subscriptions per 100 inhabitants (ITU),76.8984
+GBR,2016,United Kingdom,Active mobile-broadband subscriptions per 100 inhabitants (ITU),75.5828
+GBR,2017,United Kingdom,Active mobile-broadband subscriptions per 100 inhabitants (ITU),80.2161
+GBR,2018,United Kingdom,Active mobile-broadband subscriptions per 100 inhabitants (ITU),92.3591
+GBR,2019,United Kingdom,Active mobile-broadband subscriptions per 100 inhabitants (ITU),97.7247
+GBR,2020,United Kingdom,Active mobile-broadband subscriptions per 100 inhabitants (ITU),101.412
+GBR,2021,United Kingdom,Active mobile-broadband subscriptions per 100 inhabitants (ITU),117.887
+GBR,2022,United Kingdom,Active mobile-broadband subscriptions per 100 inhabitants (ITU),119.831
+GBR,2023,United Kingdom,Active mobile-broadband subscriptions per 100 inhabitants (ITU),122.782
+GBR,2024,United Kingdom,Active mobile-broadband subscriptions per 100 inhabitants (ITU),121.643
+IND,2015,India,Active mobile-broadband subscriptions per 100 inhabitants (ITU),9.038236883488574
+IND,2016,India,Active mobile-broadband subscriptions per 100 inhabitants (ITU),16.172982142706307
+IND,2017,India,Active mobile-broadband subscriptions per 100 inhabitants (ITU),25.375
+IND,2018,India,Active mobile-broadband subscriptions per 100 inhabitants (ITU),36.8957
+IND,2019,India,Active mobile-broadband subscriptions per 100 inhabitants (ITU),46.2768
+IND,2020,India,Active mobile-broadband subscriptions per 100 inhabitants (ITU),51.6976
+IND,2021,India,Active mobile-broadband subscriptions per 100 inhabitants (ITU),54.0601
+IND,2022,India,Active mobile-broadband subscriptions per 100 inhabitants (ITU),56.0247
+IND,2023,India,Active mobile-broadband subscriptions per 100 inhabitants (ITU),60.17024505676288
+IND,2024,India,Active mobile-broadband subscriptions per 100 inhabitants (ITU),61.93034375288906
+SAU,2015,Saudi Arabia,Active mobile-broadband subscriptions per 100 inhabitants (ITU),44.0233
+SAU,2016,Saudi Arabia,Active mobile-broadband subscriptions per 100 inhabitants (ITU),41.3795
+SAU,2017,Saudi Arabia,Active mobile-broadband subscriptions per 100 inhabitants (ITU),61.167
+SAU,2018,Saudi Arabia,Active mobile-broadband subscriptions per 100 inhabitants (ITU),87.8942
+SAU,2019,Saudi Arabia,Active mobile-broadband subscriptions per 100 inhabitants (ITU),93.6931
+SAU,2020,Saudi Arabia,Active mobile-broadband subscriptions per 100 inhabitants (ITU),115.87
+SAU,2021,Saudi Arabia,Active mobile-broadband subscriptions per 100 inhabitants (ITU),121.618
+SAU,2022,Saudi Arabia,Active mobile-broadband subscriptions per 100 inhabitants (ITU),126.544
+SAU,2023,Saudi Arabia,Active mobile-broadband subscriptions per 100 inhabitants (ITU),149.746
+SAU,2024,Saudi Arabia,Active mobile-broadband subscriptions per 100 inhabitants (ITU),162.595
