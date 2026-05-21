@@ -88,7 +88,7 @@
 
 
 
-# Data collection
+# 3. Data collection
 # Gather datasets for:
 
 # E-Government
@@ -122,7 +122,7 @@ The study is based on 17 indicators grouped into four main pillars of Digital Tr
 
 
 
-# Data Preperation (Cleaning)
+# 4. Data Preperation (Cleaning)
 
 Data cleaning was performed to improve data quality and ensure consistency before analysis.
 
@@ -137,7 +137,7 @@ Power Query and Python
 
 
 
-# Data Preperation (Normalization)
+# 4. Data Preperation (Normalization)
 
 Normalization was applied to transform indicators into a common scale and ensure fair comparison across variables.
 
@@ -153,7 +153,7 @@ Power Query and Python
 Goal : Ensure comparable values across indicators with different scales.
 
 
-# Data Processing
+# 5. Data Processing
 
 To ensure fair comparison and consistent weighting across different indicators, a structured indexing approach was applied in two stages
 
@@ -211,11 +211,12 @@ To transform cleaned datasets into a structured database that supports efficient
 
 
 
-# Data Analysis verview
+# 6. Data Analysis verview
 
 In this phase, the processed data was analyzed to extract insights about the relationship between Digital Transformation and Financial Inclusion across countries and over time.
 
   * Analytical Techniques Used
+    
 * Trend Analysis over time
 * Cross-country comparison
 * Correlation analysis (R)
@@ -297,7 +298,7 @@ To evaluate how Digital Transformation and Financial Inclusion have evolved over
 
 
 
-# Insights & Conclusion
+# 7. Insights & Conclusion
 
 # Key Insights
 
