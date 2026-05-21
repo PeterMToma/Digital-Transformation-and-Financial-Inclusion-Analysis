@@ -119,6 +119,7 @@
 
 The study is based on 17 indicators grouped into four main pillars of Digital Transformation and Financial Inclusion Readiness to evaluate digital     transformation and financial inclusion   
 
+
 Goal: Build a multi-country, multi-indicator dataset
 
 
@@ -151,12 +152,14 @@ Normalized Value = (X − Min) / (Max − Min)
   * Tools Used
 Power Query and Python
 
+
 Goal : Ensure comparable values across indicators with different scales.
 
 
 # 5. Data Processing
 
 To ensure fair comparison and consistent weighting across different indicators, a structured indexing approach was applied in two stages
+
 
 1 - Sub-Indices Creation
 
@@ -169,8 +172,8 @@ Each digital dimension was first transformed into a sub-index to standardize ind
 
 Sub-indices were created to preserve consistent weighting across components with different numbers of indicators (1, 2, and 3 indicators per dimension), ensuring a fair and comparable measurement structure across all dimensions of Digital Transformation.
 
-
 After preparing the data, new analytical features were created to represent each dimension of Digital Transformation.
+
 
 
 2 - Composite Indices (Topic Level)
@@ -183,6 +186,7 @@ Each domain was then aggregated into a composite index to represent its overall 
   * Financial Inclusion Composite Index
 
 To build a hierarchical indexing system that ensures consistency, comparability, and accurate representation of Digital Transformation levels.
+
 
 
 3 - Final Digital Transformation Index (DT)
