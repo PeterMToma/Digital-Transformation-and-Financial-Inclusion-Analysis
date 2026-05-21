@@ -171,6 +171,7 @@ Sub-indices were created to preserve consistent weighting across components with
 
 After preparing the data, new analytical features were created to represent each dimension of Digital Transformation.
 
+
 2 - Composite Indices (Topic Level)
 
 Each domain was then aggregated into a composite index to represent its overall performance.
@@ -181,6 +182,7 @@ Each domain was then aggregated into a composite index to represent its overall 
   * Financial Inclusion Composite Index
 
 To build a hierarchical indexing system that ensures consistency, comparability, and accurate representation of Digital Transformation levels.
+
 
 3 - Final Digital Transformation Index (DT)
 
@@ -215,7 +217,7 @@ To transform cleaned datasets into a structured database that supports efficient
 
 In this phase, the processed data was analyzed to extract insights about the relationship between Digital Transformation and Financial Inclusion across countries and over time.
 
-  * Analytical Techniques Used
+  # Analytical Techniques Used
     
 * Trend Analysis over time
 * Cross-country comparison
@@ -226,7 +228,8 @@ In this phase, the processed data was analyzed to extract insights about the rel
   * Objective
 To identify patterns, relationships, and the impact of Digital Transformation on Financial Inclusion.
 
-1- Trend Analysis (Overview)
+
+ # Trend Analysis (Overview)
 
   * Trend Analysis
 Trend analysis was used to examine the evolution of Digital Transformation and Financial Inclusion over time across the selected countries.
@@ -243,7 +246,7 @@ TTo identify long-term trends and understand how digital development
 evolved alongside Financial Inclusion over time.
 
 
-2- Digital Transformation Indicator 
+ # Digital Transformation Indicator 
 
   * Analysis Cross-Country Analysis
 Cross-country analysis was used to compare Digital Transformation indicators across the selected countries and identify differences in performance levels
@@ -259,7 +262,7 @@ Y-Axis: Average Index Value
 To identify performance differences across countries and determine strengths and weaknesses in Digital Transformation dimensions.
 
 
-3- Impact Analysis
+ # Impact Analysis
 
 Impact analysis was conducted to examine the relationship between Digital Transformation indicators and Financial Inclusion using statistical techniques.
 
@@ -278,7 +281,7 @@ Y-Axis: Financial Inclusion Index
 To determine the strength of relationships and identify which Digital Transformation dimension has the strongest impact on Financial Inclusion.
 
 
-3- Growth Analysis
+ # Growth Analysis
 
 Growth analysis was conducted to measure the rate of change in Digital Transformation and Financial Inclusion indicators across countries over time.
 
@@ -307,18 +310,21 @@ United Kingdom leads in both Financial Inclusion (0.97) and Digital indicators.
 United Arab Emirates and Saudi Arabia show strong digital performance but lower Financial Inclusion than the GBR.
  Egypt has the lowest Financial Inclusion level despite gradual digital improvements.
 
-  2. Main Drivers of Financial Inclusion
+
+  3. Main Drivers of Financial Inclusion
 Digital Payments is the strongest driver (R = 0.92, R² = 0.84)
 Followed by E-Government (R = 0.86)
 Internet Penetration has a moderate impact (R = 0.63)
 
 This shows that financial digitization is more important than connectivity alone
 
-3. Digital Transformation Impact
+
+  5. Digital Transformation Impact
 Strong positive relationship between DT Index and Financial Inclusion (R = 0.84)
 Countries with higher DT levels tend to achieve higher financial inclusion.
 
-4. Growth Analysis (Key Findings)
+
+  5. Growth Analysis (Key Findings)
    
   * Digital Transformation Growth
 Highest growth: India (+88%)
