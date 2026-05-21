@@ -93,13 +93,9 @@ Countries to be compared:
   * Internet Penetration
   * Digital Payments
   * Financial Inclusion
+    Goal : Build a multi-country, multi-indicator dataset
 
-# Select the five countries for analysis:
-  * Egypt
-  * India
-  * United Arab Emirates
-  * Saudi Arabia
-  * United Kingdom
+  The study is based on 17 indicators grouped into four main pillars of Digital Transformation and Financial Inclusion Readiness to evaluate digital transformation and financial inclusion    
 
    
 # Visual Identity: 
