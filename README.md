@@ -161,7 +161,7 @@ Goal : Ensure comparable values across indicators with different scales.
 To ensure fair comparison and consistent weighting across different indicators, a structured indexing approach was applied in two stages
 
 
-1 - Sub-Indices Creation
+ # Sub-Indices Creation
 
 Each digital dimension was first transformed into a sub-index to standardize indicators and preserve balanced weighting across components
 
@@ -176,7 +176,7 @@ After preparing the data, new analytical features were created to represent each
 
 
 
-2 - Composite Indices (Topic Level)
+ # Composite Indices (Topic Level)
 
 Each domain was then aggregated into a composite index to represent its overall performance.
 
@@ -189,7 +189,7 @@ To build a hierarchical indexing system that ensures consistency, comparability,
 
 
 
-3 - Final Digital Transformation Index (DT)
+ # Final Digital Transformation Index (DT)
 
 Finally, all composite indices were combined to construct a unified Digital Transformation Index, representing the overall digital maturity of each country.
 
@@ -310,13 +310,13 @@ To evaluate how Digital Transformation and Financial Inclusion have evolved over
 
 # Key Insights
 
-  1. Digital Transformation & Financial Inclusion Levels
+  # Digital Transformation & Financial Inclusion Levels
 United Kingdom leads in both Financial Inclusion (0.97) and Digital indicators.
 United Arab Emirates and Saudi Arabia show strong digital performance but lower Financial Inclusion than the GBR.
  Egypt has the lowest Financial Inclusion level despite gradual digital improvements.
 
 
-  3. Main Drivers of Financial Inclusion
+  # Main Drivers of Financial Inclusion
 Digital Payments is the strongest driver (R = 0.92, R² = 0.84)
 Followed by E-Government (R = 0.86)
 Internet Penetration has a moderate impact (R = 0.63)
@@ -324,12 +324,12 @@ Internet Penetration has a moderate impact (R = 0.63)
 This shows that financial digitization is more important than connectivity alone
 
 
-  5. Digital Transformation Impact
+  # Digital Transformation Impact
 Strong positive relationship between DT Index and Financial Inclusion (R = 0.84)
 Countries with higher DT levels tend to achieve higher financial inclusion.
 
 
-  5. Growth Analysis (Key Findings)
+  # Growth Analysis (Key Findings)
    
   * Digital Transformation Growth
 Highest growth: India (+88%)
