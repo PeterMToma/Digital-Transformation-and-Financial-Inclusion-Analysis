@@ -168,7 +168,7 @@ Each digital dimension was first transformed into a sub-index to standardize ind
   * E-Government Sub-Index
   * Internet Penetration Sub-Index
   * Digital Payments Sub-Index
-  * Financial Inclusion Sub_Index
+  * Financial Inclusion Sub-Index
 
 Sub-indices were created to preserve consistent weighting across components with different numbers of indicators (1, 2, and 3 indicators per dimension), ensuring a fair and comparable measurement structure across all dimensions of Digital Transformation.
 
