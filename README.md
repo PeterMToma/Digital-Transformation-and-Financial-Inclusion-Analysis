@@ -99,7 +99,7 @@
   * EPI ( E-Participation Index )
     
 # Internet Penetration
-  * Actice Mobile Broaband Subscription
+  * Active Mobile Broaband Subscription
   * Fixed Broadband Subscription
   * Individuals Using the inernet
   * Price of fixed Broadband basket 5GB
