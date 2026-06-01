@@ -93,7 +93,7 @@
   Gather datasets for:
 
 # E-Government
-  * OSI ( Onine Serice Index )
+  * OSI ( Onine Service Index )
   * TII ( Telecommunication Infrastructure index )
   * HCI ( Human Capital Index )
   * EPI ( E-Participation Index )
