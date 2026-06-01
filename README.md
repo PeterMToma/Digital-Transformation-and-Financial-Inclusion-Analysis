@@ -110,7 +110,7 @@
 # Digital Payments
   * Mobile Money Account
   * Used a mobile phone or the internet to buy something online
-  * Made or received a digital paymen
+  * Made or received a digital payment
     
 # Financial Inclusion
   * Account Ownership
